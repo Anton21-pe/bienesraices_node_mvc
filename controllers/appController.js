@@ -1,5 +1,5 @@
 import { Sequelize } from 'sequelize'
-import {Precio, Categoria, Propiedad} from '../models/index.js'
+import {Precio, Categoria, Propiedad} from '../models/Index.js'
 
 const inicio = async (req, res) => {
 
